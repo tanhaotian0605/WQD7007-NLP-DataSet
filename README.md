@@ -1,0 +1,1 @@
+generated a hotel-level feature table (1 row per accommodation_id), joinable via accommodation_id; output file: bi_hotel_profile_with_keywords.csv (includes risk_level, negative_rate, risk_kw_rate, and top_keywords_str)
